@@ -1,3 +1,3 @@
 # hello-world
 Hashim Mustafa
-Developer
+ photographer
